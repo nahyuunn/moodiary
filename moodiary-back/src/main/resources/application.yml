@@ -8,4 +8,4 @@ spring:
     password: "diary723!"
 
   jwt:
-    secret: vmfdfdddoiioueioidohfdbfndbfbdbfbwbqbqqooodididdaapwkqqqqqqqqqqqqq
+    secret: ${JWT_SECRET}
